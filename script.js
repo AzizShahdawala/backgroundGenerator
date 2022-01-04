@@ -5,8 +5,8 @@ let css = document.querySelector("h3");
 let randomBtn = document.createElement("button");
 
 // Initial Values
-color1.value = '#FF0000';
-color2.value = '#FFFF00';
+color1.value = '#b2fefa';
+color2.value = '#0ed2f7';
 
 // Creating a random button
 randomBtn.appendChild(document.createTextNode("Random BG"));
